@@ -1,0 +1,14 @@
+Package: com.josiauh.theme
+Name: Josiauh Theme
+Version: 1.0
+Architecture: iphoneos-arm 
+Description: A theme that just adds things.
+Maintainer: Josiauh
+Author: Josiauh
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: debs/josiauhtheme.deb
+Size: 275774
+MD5sum: 9f94128774c5f922695c801e1eb77b96
+SHA1: 901e768457387878ac37f78bb9ec1c8b43e7f19a
+SHA256: 2e6f208c4ee16f31458ce0db7c058a2fe5f9a6f8bdcb735717b19717172eb26e
